@@ -4,11 +4,11 @@
 </p>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Sanket Khardkar! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Sanket Khardkar!
 *Data Engineer | Informatica | Power BI*
-<br /> 
+<br />
 
-<!--Start Intro-->                
+<!--Start Intro-->
 <p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL.</p>
 
 - ✨ Student of life :)
@@ -20,6 +20,7 @@
 <!--End Intro-->
 
 ---
+
 ##### 🔗 Connect with Me
 
 <!--Profile Count Badge & Inline Contact Buttons-->
@@ -44,80 +45,8 @@
 
 ---
 
-<!--Languages and Tools Section with Skills Animation on the Right -->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg"
-       alt="Informatica"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-       alt="Oracle"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
-       alt="Power BI"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-       alt="MySQL"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-       alt="SQLite"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-       alt="Git"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-       alt="Azure"
-       width="40"
-       height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-       alt="HTML5"
-       width="40"
-       height="40"/>
-</a>
-
-</p>
-
+<!--Tech Stack & Skills Section -->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
   <tr>
@@ -139,17 +68,17 @@
     </td>
     
 <td width="50%" align="center" valign="middle" style="border: none !important; background: transparent;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-      <img alt="Skills Animation GIF" src="./Skills_Animation_White.gif" width="100%">
-    </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img alt="Skills Animation GIF" src="./Skills_Animation_White.gif" width="100%">
+      </picture>
     </td>
   </tr>
 </table>
 <br />
 
-<!--Github stats Table (First row: GitHub Stats & Streak Stats horizontally, Second row: Top Contributions centered below)--> 
+<!--Github stats Table (First row: GitHub Stats & Streak Stats horizontally, Second row: Top Contributions centered below)-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
@@ -186,7 +115,13 @@
 
 ---
 
-<!--Footer--> 
+### 💼 Freelance Projects
+
+* 🎓 **Student Management Application** — Python-based student registration, payment ledger, dashboard, and reporting application.
+* 🛒 **E-Commerce Project** — Online product catalog and ordering website.
+* 🎨 **Megical Floor Art** — E-commerce website for decorative and ready-made rangoli products.
+
+<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
