@@ -32,7 +32,7 @@
   <a href="mailto:sanketkhardkar@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="height: 28px; vertical-align: middle;" />
   </a>
-  <a href="www.linkedin.com/in/sanket-r-khardkar-9b5ba8329" target="_blank">
+  <a href="www.linkedin.com/in/sanket-r-khardkar-9b5ba8329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px; vertical-align: middle;" />
   </a>
   <a href="https://www.github.com/SanketKhardkar" target="_blank">
