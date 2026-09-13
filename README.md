@@ -46,23 +46,23 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="Right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
-<h3 align="left">Core Competencies</h3>
+
+<h3 align="left">⚙️ Core Competencies</h3>
 <ul align="left">
-  <li>Data Integration: Informatica PowerCenter, IICS, Workflow Development, Data Transformation</li>
-  <li>Dimensional Modeling: Star & Snowflake Schema, SCD Type 1 & 2, CDC Implementation</li>
-  <li>Databases & Performance: Oracle 19c, Teradata, SQL Developer, Indexing, Partitioning, Query Tuning</li>
-  <li>BI & Programming: Microsoft Power BI, Python, SQL, PL/SQL, Databricks</li>
+  <li><b>Data Integration:</b> Informatica PowerCenter, IICS, Workflow Development, Data Transformation </li>
+  <li><b>Dimensional Modeling:</b> Star & Snowflake Schema, SCD Type 1 & 2, CDC Implementation </li>
+  <li><b>Databases & Performance:</b> Oracle 19c, Teradata, SQL Developer, Indexing, Partitioning, Query Tuning </li>
+  <li><b>BI & Programming:</b> Microsoft Power BI, Python, SQL, PL/SQL, Databricks </li>
 </ul>
 
-
+ 
   
-<h3 align="left">Professional Experience Highlights</h3>
+<h3 align="left">💡 Key Professional Highlights</h3>
 <ul align="left">
-  <li>🔥Data Engineer at Acxiom Technology: Building centralized star schema Data Marts and ETL workflows</li>
-  <li>🔥Axis Bank Project: Integrated 40+ banking products and handled PySpark/Databricks ETL pipelines</li>
-  <li><a href="#">Implementing trigger-based workflows and Linux-based auto-email reporting for data quality</li>
+  <li><b>Enterprise Data Warehousing:</b> Architecting centralized star schema data marts and scalable ETL workflows at Acxiom Technology.</li>
+  <li><b>Large-Scale Banking Solutions:</b> Spearheaded the integration of 40+ banking products and managed PySpark/Databricks ETL pipelines for Axis Bank.</li>
+  <li><b>Automation & Data Governance:</b> Deployed trigger-based control workflows and Linux-based automated reporting systems to enforce rigorous data quality.</li>
 </ul>
 <br />
 <br />
