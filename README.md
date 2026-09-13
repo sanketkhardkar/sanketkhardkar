@@ -6,13 +6,13 @@
 *Data Engineer | Informatica | Power BI* <br /> 
 
 <!--Start Intro-->                
-<p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL[cite: 1].</p>
+<p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL.</p>
 
-- ✨ Student of life :)[cite: 1]
-- 🌱 I’m currently expanding my expertise in cloud technologies, Databricks, and advanced data engineering workflows[cite: 1].
-- 📊 Skilled in performance optimization, indexing, partitioning, and query tuning[cite: 1].
-- 🛠 Experienced with Python, IICS, Teradata, and Linux environments[cite: 1].
-- ❤ Dedicated to ensuring data accuracy, consistency, and implementing robust data quality frameworks[cite: 1].
+- ✨ Student of life :)
+- 🌱 I’m currently expanding my expertise in cloud technologies, Databricks, and advanced data engineering workflows.
+- 📊 Skilled in performance optimization, indexing, partitioning, and query tuning.
+- 🛠 Experienced with Python, IICS, Teradata, and Linux environments.
+- ❤ Dedicated to ensuring data accuracy, consistency, and implementing robust data quality frameworks.
 - 💻 Visit my professional links below for more details about me.
 <!--End Intro-->
 
@@ -50,17 +50,19 @@
 
 <h3 align="left">Core Competencies</h3>
 <ul align="left">
-  <li>Data Integration: Informatica PowerCenter, IICS, Workflow Development, Data Transformation[cite: 1]</li>
-  <li>Dimensional Modeling: Star & Snowflake Schema, SCD Type 1 & 2, CDC Implementation[cite: 1]</li>
-  <li>Databases & Performance: Oracle 19c, Teradata, SQL Developer, Indexing, Partitioning, Query Tuning[cite: 1]</li>
-  <li>BI & Programming: Microsoft Power BI, Python, SQL, PL/SQL, Databricks[cite: 1]</li>
+  <li>Data Integration: Informatica PowerCenter, IICS, Workflow Development, Data Transformation</li>
+  <li>Dimensional Modeling: Star & Snowflake Schema, SCD Type 1 & 2, CDC Implementation</li>
+  <li>Databases & Performance: Oracle 19c, Teradata, SQL Developer, Indexing, Partitioning, Query Tuning</li>
+  <li>BI & Programming: Microsoft Power BI, Python, SQL, PL/SQL, Databricks</li>
 </ul>
+
+
   
 <h3 align="left">Professional Experience Highlights</h3>
 <ul align="left">
-  <li><a href="#">🔥Data Engineer at Acxiom Technology: Building centralized star schema Data Marts and ETL workflows[cite: 1]</a></li>
-  <li><a href="#">🔥Axis Bank Project: Integrated 40+ banking products and handled PySpark/Databricks ETL pipelines[cite: 1]</a></li>
-  <li><a href="#">Implementing trigger-based workflows and Linux-based auto-email reporting for data quality[cite: 1]</a></li>
+  <li>🔥Data Engineer at Acxiom Technology: Building centralized star schema Data Marts and ETL workflows</li>
+  <li>🔥Axis Bank Project: Integrated 40+ banking products and handled PySpark/Databricks ETL pipelines</li>
+  <li><a href="#">Implementing trigger-based workflows and Linux-based auto-email reporting for data quality</li>
 </ul>
 <br />
 <br />
