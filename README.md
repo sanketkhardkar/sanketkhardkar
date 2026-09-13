@@ -4,7 +4,7 @@
 </p>
 
 <!--Header Name-->
-# 👋 Hi, I'm Sanket R. Khardkar!
+# 👋 Hi there, I'm Sanket Khardkar!
 *Data Engineer | Informatica | Power BI*
 <br />
 
