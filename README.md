@@ -1,12 +1,9 @@
 <!--Banner-->
-<p align="center">
-  <img src="./banner.png" width="100%" alt="SanketKhardkar Banner Image" />
-</p>
+<p align="center">   <img src="./banner.png" width="100%" alt="SanketKhardkar Banner Image" /> </p>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sanket Khardkar! 
-*Data Engineer | Informatica | Power BI*
-<br /> 
+*Data Engineer | Informatica | Power BI* <br /> 
 
 <!--Start Intro-->                
 <p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL[cite: 1].</p>
