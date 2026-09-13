@@ -4,7 +4,7 @@
 </p>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sanket Khardkar! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Sanket Khardkar! 
 *Data Engineer | Informatica | Power BI*
 <br /> 
 
@@ -18,6 +18,9 @@
 - ❤ Dedicated to ensuring data accuracy, consistency, and implementing robust data quality frameworks.
 - 💻 Visit my professional links below for more details about me.
 <!--End Intro-->
+
+---
+##### 🔗 Connect with Me
 
 <!--Profile Count Badge & Inline Contact Buttons-->
 <div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
