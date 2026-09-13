@@ -21,7 +21,7 @@
 
 ---
 
-##### 🔗 Connect with Me
+### 🔗 Connect with Me
 
 <!--Profile Count Badge & Inline Contact Buttons-->
 <div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
@@ -78,6 +78,16 @@
 </table>
 <br />
 
+---
+
+### 💼 Freelance Projects
+
+* 🎓 **Student Management Application** — Python-based student registration, payment ledger, dashboard, and reporting application.
+* 🛒 **E-Commerce Project** — Online product catalog and ordering website.
+* 🎨 **Megical Floor Art** — E-commerce website for decorative and ready-made rangoli products.
+
+---
+
 <!--Github stats Table (First row: GitHub Stats & Streak Stats horizontally, Second row: Top Contributions centered below)-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -112,14 +122,6 @@
   </tr>
 </table>
 <br />
-
----
-
-### 💼 Freelance Projects
-
-* 🎓 **Student Management Application** — Python-based student registration, payment ledger, dashboard, and reporting application.
-* 🛒 **E-Commerce Project** — Online product catalog and ordering website.
-* 🎨 **Megical Floor Art** — E-commerce website for decorative and ready-made rangoli products.
 
 <!--Footer-->
 <p align="center">
