@@ -9,7 +9,6 @@
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL.</p>
 
 - 🌱 I’m currently expanding my expertise in cloud technologies, Databricks, and advanced data engineering workflows.
 - 📊 Skilled in performance optimization, indexing, partitioning, and query tuning.
