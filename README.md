@@ -32,14 +32,14 @@
   <a href="mailto:sanketkhardkar@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="height: 28px; vertical-align: middle;" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="www.linkedin.com/in/sanket-r-khardkar-9b5ba8329" alt="LinkedIn" style="height: 28px; vertical-align: middle;" />
+  <a href="www.linkedin.com/in/sanket-r-khardkar-9b5ba8329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px; vertical-align: middle;" />
   </a>
   <a href="https://www.github.com/SanketKhardkar" target="_blank">
-    <img src="https://github.com/sanketkhardkar" alt="GitHub" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 28px; vertical-align: middle;" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https:" alt="Instagram" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 28px; vertical-align: middle;" />
   </a>
 </div>
 
