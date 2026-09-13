@@ -44,15 +44,13 @@
 </div>
 
 ---
-
 <!--Tech Stack & Skills Section -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="Right" alt="GIF description" src="./Skills_Animation_White.gif" width="38%">
+  <img align="Right" alt="GIF description" src="./Skills_Animation_White.gif" width="35%">
 </picture>
-<br />
 
 <h3 align="left">⚙️ Core Competencies</h3>
 <ul align="left">
