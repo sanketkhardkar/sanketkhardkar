@@ -1,25 +1,47 @@
-![umangahuja1 Banner Image](./banner.png)
+<!--Banner-->
+![SanketKhardkar Banner Image](./banner.png)
 
+<!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sanket Khardkar! 
-*Lead Engineer (Developer / Programmer)*
+*Data Engineer | Informatica | Power BI*
 <br /> 
 
-<p align="left">I am a Lead Engineer at Arcesium with a huge love for C++, Java, Python, AWS, and modern software architectures. </p>
+<!--Start Intro-->                
+<p align="left">I am a Data Engineer with 6+ years of experience in ETL development, Data Mart implementation, and dimensional modeling using Informatica PowerCenter and Oracle SQL/PLSQL[cite: 1].</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently exploring advanced cloud systems and engineering scale.
-- ✍ I write a newsletter called [Joy Of Engineering](https://substack.com)
-- 📹 YouTube Channel [getsetpython](https://youtube.com)
-- ❤ Contributing to robust backend tech and high-performance code.
+- ✨ Student of life :)[cite: 1]
+- 🌱 I’m currently expanding my expertise in cloud technologies, Databricks, and advanced data engineering workflows[cite: 1].
+- 📊 Skilled in performance optimization, indexing, partitioning, and query tuning[cite: 1].
+- 🛠 Experienced with Python, IICS, Teradata, and Linux environments[cite: 1].
+- ❤ Dedicated to ensuring data accuracy, consistency, and implementing robust data quality frameworks[cite: 1].
 - 💻 Visit my professional links below for more details about me.
-- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=umangahuja1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="umangahuja1" style="padding-right:20px;" />
-</p>
+<!--End Intro-->
+
+<!--Profile Count Badge & Inline Contact Buttons-->
+<div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://komarev.com/ghpvc/?username=SanketKhardkar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SanketKhardkar" style="height: 28px; vertical-align: middle;" />
+  <a href="mailto:sanketkhardkar@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; vertical-align: middle;" />
+  </a>
+  <a href="mailto:sanketkhardkar@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="height: 28px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px; vertical-align: middle;" />
+  </a>
+    <a href="https://www.github.com/SanketKhardkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 28px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 28px; vertical-align: middle;" />
+  </a>
+
+</div>
 
 ---
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Sᴋɪʟʟs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -27,24 +49,26 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Core Competencies</h3>
 <ul align="left">
-  <li>Deepening my knowledge in distributed cloud systems and AWS patterns.</li>
-  <li>Exploring advanced system design and low-latency programming in C++ and Java.</li>
-  <li>Writing insights on engineering leadership and software craftsmanship.</li>
+  <li>Data Integration: Informatica PowerCenter, IICS, Workflow Development, Data Transformation[cite: 1]</li>
+  <li>Dimensional Modeling: Star & Snowflake Schema, SCD Type 1 & 2, CDC Implementation[cite: 1]</li>
+  <li>Databases & Performance: Oracle 19c, Teradata, SQL Developer, Indexing, Partitioning, Query Tuning[cite: 1]</li>
+  <li>BI & Programming: Microsoft Power BI, Python, SQL, PL/SQL, Databricks[cite: 1]</li>
 </ul>
   
-<h3 align="left">Latest Updates</h3>
+<h3 align="left">Professional Experience Highlights</h3>
 <ul align="left">
-  <li><a href="#">🔥Joy Of Engineering Newsletter: Scaling Systems at Arcesium 🤖</a></li>
-  <li><a href="#">🔥New YouTube Video on getsetpython: Python Performance Tips 🙂</a></li>
-  <li><a href="#">Building and scaling high-throughput financial pipelines🤯</a></li>
+  <li><a href="#">🔥Data Engineer at Acxiom Technology: Building centralized star schema Data Marts and ETL workflows[cite: 1]</a></li>
+  <li><a href="#">🔥Axis Bank Project: Integrated 40+ banking products and handled PySpark/Databricks ETL pipelines[cite: 1]</a></li>
+  <li><a href="#">Implementing trigger-based workflows and Linux-based auto-email reporting for data quality[cite: 1]</a></li>
 </ul>
 <br />
 <br />
 <br />
 <br />
 
+<!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -52,16 +76,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/umangahuja1">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=umangahuja1&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/SanketKhardkar">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SanketKhardkar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/umangahuja1">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=umangahuja1&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/SanketKhardkar">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=SanketKhardkar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -70,16 +94,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/umangahuja1">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=umangahuja1&repo=umangahuja1&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project Pin" />
+        <a href="https://github.com/SanketKhardkar">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=SanketKhardkar&repo=SanketKhardkar&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project Pin" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪbᴜᴛɪᴏns</strong></h3>
       <p align="center">
-        <a href="https://github.com/umangahuja1">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=umangahuja1&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/SanketKhardkar">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanketKhardkar&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -87,29 +111,16 @@
 </table>
 <br />
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪbᴜᴛɪᴏn Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketKhardkar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.github.com/umangahuja1" target="_blank">
-<img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
-</a>
-
-
-<br/>
-
-</div>
-
+<!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
