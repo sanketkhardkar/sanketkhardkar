@@ -1,26 +1,134 @@
 <h1 align="center">Hi 👋, I'm Sanket R. Khardkar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkhardkar&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkhardkar" /> </p>
+<h3 align="center">Data Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkhardkar" alt="sanketkhardkar" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Student Management and E-Comerce Project**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Social Listining AI**
+* 🔭 I’m currently working on **Student Management and E-Commerce Projects**
+* 🌱 I’m currently learning **Social Listening AI and Databricks**
+* 💼 **8+ years of experience** in ETL, Data Warehousing, Informatica PowerCenter, Oracle SQL, and Power BI
+* 🛠️ Experienced in **Data Integration, ETL Development, Data Quality, Reporting, and Data Warehousing**
+* 📊 Interested in **Data Engineering, Analytics, AI, and Automation**
+* 📫 How to reach me: **[sanketkhardkar@gmail.com](mailto:sanketkhardkar@gmail.com)**
 
-- 📫 How to reach me **sanketkhardkar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/sanket r. khardkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket r. khardkar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sanket-r-khardkar-9b5ba8329/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="Sanket R. Khardkar"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketkhardkar&show_icons=true&locale=en&layout=compact" alt="sanketkhardkar" /></p>
+### 🛠️ Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketkhardkar&show_icons=true&locale=en" alt="sanketkhardkar" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketkhardkar&" alt="sanketkhardkar" /></p>
+<a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg"
+       alt="Informatica"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+       alt="Oracle"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
+       alt="Power BI"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="MySQL"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+       alt="SQLite"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       alt="Git"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+       alt="Azure"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       alt="HTML5"
+       width="40"
+       height="40"/>
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sanketkhardkar&hide_border=true"
+    alt="Sanket's GitHub Streak"
+    height="180"
+  />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+* 🎓 **Student Management Application** — Python-based student registration, payment ledger, dashboard, and reporting application.
+* 🛒 **E-Commerce Project** — Online product catalog and ordering website.
+* 🎨 **Megical Floor Art** — E-commerce website for decorative and ready-made rangoli products.
+
+---
+
+### 📫 Contact
+
+**Email:** [sanketkhardkar@gmail.com](mailto:sanketkhardkar@gmail.com)
+
+**LinkedIn:**
+https://www.linkedin.com/in/sanket-r-khardkar-9b5ba8329/
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
