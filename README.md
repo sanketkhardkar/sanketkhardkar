@@ -70,10 +70,25 @@
 
 ### 💼 Freelance Projects
 
-* 🎓 **Student Management Application** — Python-based student registration, payment ledger, dashboard, and reporting application.
-* 🛒 **E-Commerce Project** — Online product catalog and ordering website.
-* 🎨 **Megical Floor Art** — E-commerce website for decorative and ready-made rangoli products.
+#### 🎓 Student Management Application
+> *A comprehensive, Python-based desktop/web solution designed to streamline student registration, track financial ledgers, and deliver real-time analytics.*
+* **Overview:** Built a centralized application to handle administrative workflows for educational institutes, eliminating manual paperwork and reducing ledger discrepancies.
+* **Key Features:**
+  * **Student Registration:** Seamless enrollment workflow capturing student profiles, course mapping, and academic details.
+  * **Payment Ledger:** Automated financial tracking for fee submissions, pending dues, transaction histories, and receipt generation.
+  * **Interactive Dashboard:** Real-time visual metrics displaying active enrollments, revenue trends, and fee collection summaries.
+  * **Automated Reporting:** Generates downloadable reports for attendance, financial audits, and student performance.
+* **Tech Stack:** Python, SQLite/MySQL, Pandas, Matplotlib / GUI Framework (Tkinter/PyQt or Web framework)
 
+#### 🎨 Megical Floor Art — E-Commerce Website
+> *A specialized, niche e-commerce platform curated for traditional decorative goods, ready-made rangolis, and festive floor art products.*
+* **Overview:** Created a vibrant, user-friendly online marketplace tailored specifically for art enthusiasts looking to purchase ready-to-use decorative floor designs.
+* **Key Features:**
+  * **Visual Product Showcase:** High-resolution galleries and categorized displays showcasing intricate rangoli patterns and festive decor items.
+  * **Seamless Ordering & Checkout:** Frictionless customer journey from product selection to order confirmation.
+  * **Responsive Design:** Optimized layout ensuring a smooth browsing and purchasing experience across mobile and desktop devices.
+  * **Brand Identity Integration:** Custom color palettes and asset alignments matching the artistic and cultural essence of the products.
+* **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design Principles
 ---
 
 <!--Github stats Table (First row: GitHub Stats & Streak Stats horizontally, Second row: Top Contributions centered below)-->
