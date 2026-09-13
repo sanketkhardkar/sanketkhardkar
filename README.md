@@ -87,15 +87,15 @@
         </a>
       </p>
     </td>
-    
-    <!-- Right Column: Skills Animation -->
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-        <img alt="Skills Animation GIF" src="./Skills_Animation_White.gif" width="100%">
-      </picture>
-    </td>
+
+<!-- Right Column: Skills Animation -->
+<td width="50%" align="center" valign="middle" style="border: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+      <img alt="Skills Animation GIF" src="./Skills_Animation_White.gif" width="100%">
+    </picture>
+  </td>
   </tr>
 </table>
 <br />
