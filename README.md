@@ -1,5 +1,7 @@
 <!--Banner-->
-![SanketKhardkar Banner Image](./banner.png)
+<p align="center">
+  <img src="./banner.png" width="100%" alt="SanketKhardkar Banner Image" />
+</p>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sanket Khardkar! 
@@ -113,8 +115,8 @@
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪbᴜᴛɪᴏn Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketKhardkar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+<div align="center" style="border-radius: 15px; overflow: hidden;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketKhardkar&&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Activity Graph">
 </div>
 
 ---
