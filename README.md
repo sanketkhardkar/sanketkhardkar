@@ -4,7 +4,7 @@
 </p>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Sanket Khardkar!
+# 👋 Hi, I'm Sanket R. Khardkar!
 *Data Engineer | Informatica | Power BI*
 <br />
 
