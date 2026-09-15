@@ -67,17 +67,16 @@
 </ul> 
 
 ---
-### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="20" height="20" /> **Informatica Power Center (ETL)**  
-Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-507ab09e-59e8-455d-83bb-b395809e8dde 
 
-### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Power_BI.png" width="20" height="20" /> **Microsoft Power BI Desktop for Business Intelligence**  
-Issued Jul 2024  &nbsp; | &nbsp; Credential ID: UC-464279b1-3649-4f1d-b14f-e218ce43978a
+### 📜 Certifications & Licenses
 
-### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Automation_Anywhere.png" width="20" height="20" /> **Automation Anywhere Certified Advanced RPA Professional**  
-Issued Jul 2020  &nbsp; | &nbsp; Credential ID: AAADVC-20925161
+&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="15" height="15" /> **Informatica Power Center**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-507ab09e-59e8-455d-83bb-b395809e8dde
 
-### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_UI_Path.png" width="20" height="20" /> **UI Path Developer Foundation**  
-Issued Jul 2020
+&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Power_BI.png" width="15" height="15" /> **Microsoft Power BI Desktop for Business Intelligence**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-464279b1-3649-4f1d-b14f-e218ce43978a
+
+&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Automation_Anywhere.png" width="15" height="15" /> **Automation Anywhere Certified Advanced RPA Professional**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2020 &nbsp; | &nbsp; Credential ID: AAADVC-20925161
+
+&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_UI_Path.png" width="15" height="15" /> **UI Path Developer Foundation**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2020
 
 ---
 
