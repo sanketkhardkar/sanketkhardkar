@@ -128,5 +128,6 @@
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<hr style="border: none; border-top: 0.5px solid #441350; margin: 20px 0;" />
+
+
