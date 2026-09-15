@@ -1,6 +1,14 @@
-### 📜 Certifications & Credentials
+### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Automation_Anywhere.png" width="20" height="20" /> **Automation Anywhere Certified Advanced RPA Professional**  
+Issued Jul 2020
+Credential ID: AAADVC-20925161
 
-* 🏆 **[Certification Name 1 e.g., Oracle Database Administration / SQL Certified]** — *Issuing Organization (e.g., Oracle)* | [View Credential](https://www.credly.com/)
-* 📊 **[Certification Name 2 e.g., Microsoft Power BI Data Analyst Associate]** — *Microsoft* | [View Credential](https://www.credly.com/)
-* ☁️ **[Certification Name 3 e.g., Azure Data Fundamentals / Databricks]** — *Microsoft / Databricks* | [View Credential](https://www.credly.com/)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_UI_Path.png" width="20" height="20" /> **UI Path Developer Foundation**  
+Issued Jul 2020
+
+### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Power_BI.png" width="20" height="20" /> **Microsoft Power BI Desktop for Business Intelligence**  
+Issued Jul 2024  
+Credential ID: UC-464279b1-3649-4f1d-b14f-e218ce43978a
+
+### <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="20" height="20" /> **Informatica Power Center (ETL)**  
+Issued Jul 2024  
+Credential ID: UC-507ab09e-59e8-455d-83bb-b395809e8dde  
