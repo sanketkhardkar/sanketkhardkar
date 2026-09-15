@@ -4,11 +4,9 @@
 </p>
 
 <!--Header Name-->
-*Data Engineer | Informatica | Power BI*
-<br />
+## Data Engineer | Informatica | Power BI
 
 <!--Start Intro-->
-
 - 🌱 I’m currently expanding my expertise in cloud technologies, Databricks, and advanced data engineering workflows.
 - 📊 Skilled in performance optimization, indexing, partitioning, and query tuning.
 - 🛠 Experienced with Python, IICS, Teradata, and Linux environments.
