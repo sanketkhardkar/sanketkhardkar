@@ -108,39 +108,43 @@
 * **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design Principles
 ---
 
-<!--Github stats Table (First row: GitHub Stats & Streak Stats horizontally, Second row: Top Contributions centered below)-->
+<!-- Github stats Table -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Aᴄᴛɪᴠɪᴛʏ 📊</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
+  <!-- Row 1: GitHub Stats & Streak Stats -->
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent;">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/SanketKhardkar">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SanketKhardkar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" width="100%" />
-        </a>
-      </p>
+    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent; padding: 5px;">
+      <a href="https://github.com/SanketKhardkar">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanketKhardkar&count_private=true&show_icons=true&theme=nightowl&bg_color=000000&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&rank_icon=github&hide_border=true" alt="GitHub Stats" width="100%" height="195px" />
+      </a>
     </td>
-    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent;">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/SanketKhardkar">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=SanketKhardkar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" width="100%" />
-        </a>
-      </p>
+    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent; padding: 5px;">
+      <a href="https://github.com/SanketKhardkar">
+        <img align="center" src="https://streak-stats.demolab.com/?user=SanketKhardkar&theme=nightowl&background=000000&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" width="100%" height="195px" />
+      </a>
     </td>
   </tr>
+
+  <!-- Row 2: Most Used Languages & GitHub Trophies -->
   <tr>
-    <td colspan="2" align="center" valign="top" style="border: none !important; background: transparent; padding-top: 20px;">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪbᴜᴛɪᴏns</strong></h3>
-      <p align="center">
-        <a href="https://github.com/SanketKhardkar">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanketKhardkar&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true" alt="Top Repo" />
-        </a>
-      </p>
+    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent; padding: 5px;">
+      <a href="https://github.com/SanketKhardkar">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketKhardkar&layout=compact&theme=nightowl&bg_color=000000&title_color=c56a90&text_color=ffffff&hide_border=true&hide_repo=0" alt="Top Languages" width="100%" height="165px" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none !important; background: transparent; padding: 5px;">
+      <a href="https://github.com/SanketKhardkar">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanketKhardkar&theme=nightowl" alt="Profile Summary" width="100%" height="165px" />
+      </a>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Footer-->
