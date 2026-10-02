@@ -112,10 +112,6 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Aᴄᴛɪᴠɪᴛʏ 📊</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse; background: transparent;">
   <!-- Row 1: GitHub Stats & Streak Stats -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none !important; background: transparent; padding: 5px;">
