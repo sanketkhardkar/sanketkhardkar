@@ -90,13 +90,16 @@
 * **Tech Stack:** Python, SQLite/MySQL, Pandas, Matplotlib / GUI Framework (Tkinter/PyQt or Web framework)
 
 #### 🎨 Megical Floor Art — E-Commerce Website
-> *A specialized, niche e-commerce platform curated for traditional decorative goods, ready-made rangolis, and festive floor art products.*
-* **Overview:** Created a vibrant, user-friendly online marketplace tailored specifically for art enthusiasts looking to purchase ready-to-use decorative floor designs.
+> *A specialized, niche e-commerce platform and order management system curated for traditional decorative goods, ready-made rangolis, and festive floor art products.*
+* **Overview:** Created a vibrant, user-friendly online marketplace and management system tailored specifically for art enthusiasts looking to purchase ready-to-use decorative floor designs.
 * **Key Features:**
   * **Visual Product Showcase:** High-resolution galleries and categorized displays showcasing intricate rangoli patterns and festive decor items.
-  * **Seamless Ordering & Checkout:** Frictionless customer journey from product selection to order confirmation.
+  * **Interactive Customer Experience:** Dynamic search, product filtering by tags/categories, price sorting, color variant selection, and interactive image lightboxes.
+  * **Order Management Dashboard:** Admin panel featuring real-time GitHub repository integration (with local file fallback), admin authorization, and full CRUD operations for orders.
+  * **Automated Billing & Invoicing:** Dynamic invoice generation with itemized costs, discount tracking, advance payment balance calculations, PDF export, and direct WhatsApp sharing.
   * **Responsive Design:** Optimized layout ensuring a smooth browsing and purchasing experience across mobile and desktop devices.
   * **Brand Identity Integration:** Custom color palettes and asset alignments matching the artistic and cultural essence of the products.
+
 * **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design Principles
 ---
 
