@@ -93,12 +93,17 @@
 > *A specialized, niche e-commerce platform and order management system curated for traditional decorative goods, ready-made rangolis, and festive floor art products.*
 * **Overview:** Created a vibrant, user-friendly online marketplace and management system tailored specifically for art enthusiasts looking to purchase ready-to-use decorative floor designs.
 * **Key Features:**
-  * **Visual Product Showcase:** High-resolution galleries and categorized displays showcasing intricate rangoli patterns and festive decor items.
+  * **Visual Product Showcase:** High-resolution galleries and categorized displays showcasing intricate rangoli patterns, festive decor items.
   * **Interactive Customer Experience:** Dynamic search, product filtering by tags/categories, price sorting, color variant selection, and interactive image lightboxes.
   * **Order Management Dashboard:** Admin panel featuring real-time GitHub repository integration (with local file fallback), admin authorization, and full CRUD operations for orders.
   * **Automated Billing & Invoicing:** Dynamic invoice generation with itemized costs, discount tracking, advance payment balance calculations, PDF export, and direct WhatsApp sharing.
   * **Responsive Design:** Optimized layout ensuring a smooth browsing and purchasing experience across mobile and desktop devices.
   * **Brand Identity Integration:** Custom color palettes and asset alignments matching the artistic and cultural essence of the products.
+
+* **API Functionality & External Integrations:**
+  * **GitHub REST API Integration:** Real-time repository integration within the Order Management Dashboard to sync data and execute complete CRUD operations for order management, supported by local storage fallback mechanisms.
+  * **WhatsApp Sharing Integration:** Direct API/deep-linking integration enabling seamless delivery and sharing of generated invoices and billing details directly via WhatsApp.
+
 
 * **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design Principles
 ---
