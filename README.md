@@ -67,7 +67,8 @@
 
 ### 📜 Certifications & Licenses
 
-&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="15" height="15" /> **Programming with Python CS50**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Oct 2026 &nbsp; | &nbsp; Credential ID: 96cc7fa1-4c72-4034-87d3-1134f3572a0d
+&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq40yR-w5YrnuwPkDNUD1xXI_yI2s-u9-uo1rvXaChug&s" width="15" height="15" /> **Programming with Python CS50 – Harvard University**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Oct 2026 &nbsp; | &nbsp; Credential ID: 96cc7fa1-4c72-4034-87d3-1134f3572a0d</a>
+
 
 &nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="15" height="15" /> **Informatica Power Center**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-507ab09e-59e8-455d-83bb-b395809e8dde
 
