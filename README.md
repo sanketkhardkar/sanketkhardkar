@@ -19,23 +19,24 @@
 ### 🔗 Connect with Me
 
 <!--Profile Count Badge & Inline Contact Buttons-->
-<div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=SanketKhardkar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SanketKhardkar" style="height: 28px; vertical-align: middle;" />
+<div p align="left">
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/sanketkhardkar/sanketkhardkar.json&color=770677&label=Profile%20views&logo=star&style=for-the-badge" alt="Profile views" height="28" />
   <a href="mailto:sanketkhardkar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
   </a>
   <a href="mailto:sanketkhardkar@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/sanket-r-khardkar-9b5ba8329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
   <a href="https://www.github.com/SanketKhardkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 28px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
+</p>
 </div>
 
 ---
