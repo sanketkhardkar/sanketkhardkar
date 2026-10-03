@@ -67,6 +67,8 @@
 
 ### 📜 Certifications & Licenses
 
+&nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="15" height="15" /> **Programming with Python CS50**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Oct 2026 &nbsp; | &nbsp; Credential ID: 96cc7fa1-4c72-4034-87d3-1134f3572a0d
+
 &nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Informatica.png" width="15" height="15" /> **Informatica Power Center**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-507ab09e-59e8-455d-83bb-b395809e8dde
 
 &nbsp; <img src="https://github.com/sanketkhardkar/sanketkhardkar/blob/main/icon_Power_BI.png" width="15" height="15" /> **Microsoft Power BI Desktop for Business Intelligence**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued Jul 2024 &nbsp; | &nbsp; Credential ID: UC-464279b1-3649-4f1d-b14f-e218ce43978a
