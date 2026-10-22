@@ -34,7 +34,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="Right" alt="GIF description" src="./Skills_Animation_White.gif" width="55%">
+  <img align="Right" alt="GIF description" src="./Skills_Animation_White.gif" width="50%">
 </picture>
 
 <!-- Data Integration -->
