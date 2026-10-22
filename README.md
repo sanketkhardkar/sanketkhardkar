@@ -87,7 +87,6 @@
 <b>Office Applications:</b><br />
 <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel" height="28" />
 <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word" height="28" />
-
 <br clear="all" />
 
 ---
